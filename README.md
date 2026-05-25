@@ -45,7 +45,7 @@ this toolkit isn't an accusation. it's a measurement instrument. **it tells you,
 ### 2. install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/petal-anamnesis.git
+git clone https://github.com/thepinkwitchtg/petal-anamnesis.git
 cd petal-anamnesis
 
 # python deps
