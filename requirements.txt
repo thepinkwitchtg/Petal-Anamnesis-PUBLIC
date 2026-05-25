@@ -1,0 +1,4 @@
+# petal-anamnesis :: python dependencies~
+# install with: pip install -r requirements.txt --break-system-packages
+
+python-dotenv>=1.0.0
