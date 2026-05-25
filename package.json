@@ -1,0 +1,24 @@
+{
+  "name": "petal-anamnesis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thepinkwitchtg/Petal_Anamnesis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thepinkwitchtg/Petal_Anamnesis/issues"
+  },
+  "homepage": "https://github.com/thepinkwitchtg/Petal_Anamnesis#readme",
+  "dependencies": {
+    "better-sqlite3": "^12.10.0",
+    "dotenv": "^17.4.2"
+  }
+}

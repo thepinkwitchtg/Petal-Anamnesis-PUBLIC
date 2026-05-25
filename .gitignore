@@ -1,0 +1,65 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Build output
+dist/
+.build/
+.astro/
+.cache/
+.svelte-kit/
+vite.config.ts.timestamp*
+
+# Astro
+astro.config.mjs.timestamp*
+
+# TypeScript
+*.tsbuildinfo
+
+# Env
+.env
+.env.*
+!.env.example
+.venv/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor configs
+.vscode/
+# IntelliJ, PyCharm, Rider
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Logs
+*.log
+
+# Coverage / test
+coverage/
+*.lcov
+
+# Local DB
+petal-anamnesis.db
+petal-anamnesis.db-wal
+petal-anamnesis.db-shm
+
+*.key
+
+#custom dump
+rustbpe/
+repo-tree.txt
+treeview.py
+.petal_debug/
+exports/
+content/
+reports/
+__pycache__/
